@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.carousel-item {
+  width: 200px;
+}
+.next {
+  margin-top: 110px;
+}
+.next1 {
+  background-color: #1f0040;
+  color: white;
+}
+.container-fluid .next2 {
+  width: 100%;
+  height: 500px;
+  background-image: url(img/pink1.jpg);
+  background-size: 100%;
+  background-position: bottom center;
+}
+.next3 {
+  width: 100%;
+  height: 500px;
+  background-image: url(img/pink2.jpg);
+  background-size: 100% 100%;
+  position: relative;
+}
+.win {
+  background-color: #190033;
+}
+.title {
+  font-size: 50px;
+  line-height: normal;
+  font-weight: bold;
+}
+.title1 {
+  margin-top: 50px;
+  font-size: 30px;
+  font-weight: bolder;
+}
+.circle {
+  width: 50px;
+  border-radius: 50%;
+  background-color: grey;
+  padding: 10px 20px;
+}
+.circle1 {
+  width: 35px;
+  text-align: center;
+  background-color: #cf63b8;
+  border-radius: 50%;
+}
+/* .circle2{
+    width: 50px;
+    border-radius:50%;
+    background-image: url(img/profile-img.jpg);
+    object-fit: cover;    
+} */
+/* .col-8 .text-danger .my-4{
+    margin-top: 100px;
+} */
+.position-absolute {
+  box-shadow: 5px 10px 18px #888888;
+  left: 7%;
+  bottom: -10%;
+}
+.next4 {
+  padding-top: 150px;
+}
+.next5 {
+  width: 100%;
+  height: auto;
+  background-image: url(img/pink3.jpg);
+  background-size: 100%;
+  background-position: bottom center;
+}
+.line {
+  width: 100%;
+  height: 1px;
+  background-color: grey;
+}
